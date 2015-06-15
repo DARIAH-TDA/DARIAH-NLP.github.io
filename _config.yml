@@ -1,0 +1,12 @@
+# Site settings
+title: DARIAH Natural Language Processing Working Group 
+email: Alex.OConnor@scss.tcd.ie 
+description: > # this means to ignore newlines until "baseurl:"
+    
+    baseurl: "/DARIAH-NLP" # the subpath of your site, e.g. /blog/
+url: "http://DARIAH-NLP.github.io" # the base hostname & protocol for your site
+twitter_username: dariah-nlp
+github_username:  DARIAH-NLP
+
+# Build settings
+markdown: kramdown
