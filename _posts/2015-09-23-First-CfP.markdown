@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "First CfP: Expert Workshop on Topic Models and Corpus Analysis"
+categories: meeting activity workshop 
+---
+
+Organised by DARIAH Natural Language Processing Working Group (NLP-WG)
+
+### Date
+December 14<sup>th</sup> (full-day) and 15<sup>th</sup> (half-day) 2015
+
+### Venue
+ADAPT Centre
+Dublin City University,
+Glasnevin, Dublin 9
+Ireland
+
+### Information
+With the increasing availability of large digital text resources, quantitative methods of analysis have found their way into a wide range of humanities disciplines and increasingly allow supplementing, and framing qualitative approaches in quantitative terms, leveraging the properties of large-scale data resources. Special relevance in this respect belongs to Natural Language Processing as a core sub-discipline of computer science. Recent advances in statistical approaches to recognising word embeddings and topic models have been leveraged successfully by scholars in diverse areas such as history, literary studies and linguistics.
+
+The DARIAH NLP-WG invite participation from practitioners, researchers, scholars and experts in areas including topic modelling, word embedding, literary scholarship, history and the digital humanities. A portion of the workshop will be dedicated to organising and planning future WG activities, both Virtual and Physical. 
+
+This expert workshop agenda will include position papers and experience reports on the use of corpus analysis and topic modelling tools, their implications in different domains.
+
+Two main categories of submission which we invite are:
+Position Papers, describing opinion and analysis on the most important current and future trends in the theme of the workshop. In particular, there is value in papers which highlight methodological or analytical questions
+Experience Reports describing projects, studies or experiments involving technologies and topics relevant to the workshop themes. In particular, submissions which describe reusable techniques or data, as well as practical insights are encouraged.
+
+### Deadlines
+
+For either category of submission, the Working Group invites a 500 word abstract from participants who wish to speak.
+
+* Deadline for submissions: 23<sup>rd</sup> October 2015
+* Notifications: 1<sup>st</sup> November 2015
+

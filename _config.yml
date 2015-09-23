@@ -1,12 +1,5 @@
-# Site settings
-title: DARIAH Natural Language Processing Working Group 
-email: Alex.OConnor@scss.tcd.ie 
-description: > # this means to ignore newlines until "baseurl:"
-   This is the site for the DARIAH Natural Language Processing Working Group
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://DARIAH-NLP.github.io" # the base hostname & protocol for your site
-twitter_username: dariah-nlp
-github_username:  DARIAH-NLP
-
-# Build settings
-markdown: kramdown
+# General Jekyll Config
+highlighter: pygments
+url: http://example.com
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
