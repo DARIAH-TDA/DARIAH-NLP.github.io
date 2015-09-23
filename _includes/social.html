@@ -1,8 +1,14 @@
-Follow me:
+Follow us:
 <div id="stalker">
   {% if site.data.theme.social.github %}
   <a title="{{ site.data.theme.social.github }} on Github" href="https://github.com/{{ site.data.theme.social.github }}">
     <i class="fa fa-github-square"></i>
+  </a>
+  {% endif %}
+
+  {% if site.data.theme.social.googlegroups%}
+  <a title="{{ site.data.theme.social.googlegroups }} on Google Groups" href="https://groups.google.com/d/forum/{{ site.data.theme.social.googlegroups }}/">
+    <i class="fa fa-comment"></i>
   </a>
   {% endif %}
 

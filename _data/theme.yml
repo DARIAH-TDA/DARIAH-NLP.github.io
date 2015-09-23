@@ -6,6 +6,7 @@ highlight_color: '#192C58'
 # Profile links on the left sidebar, leave blank to ignore
 social:
   github: DARIAH-NLP 
+  googlegroups: nlpwg
   #bitbucket: philipj
   #hacker_news: swanson
   #stackexchange: 348619
